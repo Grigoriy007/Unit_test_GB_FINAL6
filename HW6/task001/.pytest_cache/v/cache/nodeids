@@ -1,0 +1,13 @@
+[
+  "test_task_1.py::test_equal_averages",
+  "test_task_1.py::test_first_average_more",
+  "test_task_1.py::test_get_empty_lists_averages[lst10-lst20-result0]",
+  "test_task_1.py::test_get_empty_lists_averages[lst11-lst21-result1]",
+  "test_task_1.py::test_get_empty_lists_averages[lst12-lst22-result2]",
+  "test_task_1.py::test_get_lists_averages",
+  "test_task_1.py::test_get_one_elemented_lists_averages[lst10-lst20-result0]",
+  "test_task_1.py::test_get_one_elemented_lists_averages[lst11-lst21-result1]",
+  "test_task_1.py::test_get_one_elemented_lists_averages[lst12-lst22-result2]",
+  "test_task_1.py::test_init",
+  "test_task_1.py::test_second_average_more"
+]
